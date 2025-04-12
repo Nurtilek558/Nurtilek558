@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Nurtilek558
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML/CSS/Java-Script/React/BootStrap
+- 🌱 I’m currently learning HTML/CSS/Java-Script/React/BootStrap/TypeScript

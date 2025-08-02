@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @Nurtilek558
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning HTML/CSS/Java-Script/React/BootStrap/TypeScript
+- 💻 I'm Frontend Developer
+- 🌱 I’m currently learning PHP/Java/C#/Python

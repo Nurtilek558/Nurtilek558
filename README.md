@@ -1,7 +1,7 @@
 ### 👋 Hi! I'm a Nurtilek558,I'm Frontend Developer
 ### I build fast, clean and user-friendly interfaces. I focus on clear architecture, performance, and modern approaches to frontend engineering.
 ### 🔬 Currently Learning / Interests
-- React Server Components
+- High-quality UI animations and micro-interactions
 - Performance optimization
 - Clean Architecture in Frontend
 
